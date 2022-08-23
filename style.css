@@ -2,11 +2,14 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-}.banner-section{
+}
+
+.banner-section{
     background-image: url(./images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 150px 0px;
+  
 }
 .banner-items{
     text-align: center;
@@ -32,4 +35,47 @@ body{
     border-radius: 5px;
     
 }
+
+.donate-price{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.donate-price h1{
+    font-size: 40px;
+
+}
+.donate-amount-area{
+    width: 70%;
+}
+.donate-amount{
+    display: flex;
+    position: absolute;
+    width: 70%;
+}
+
+.amount-item{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+    background-color: #fafafa;
+    padding-left: 30px;
+    border-radius: 5px;
+   
+
+}
+.amount-item p{
+    margin: auto;
+    margin-top: 40px;
+    font-weight: 500;
+
+}
+#unique-item{
+    border: 2px solid tomato;
+    background-color: #ffeeee;
+}
+
+
+
 
