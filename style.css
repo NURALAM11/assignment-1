@@ -34,7 +34,11 @@ body{
     font-size: 25px;
     border-radius: 5px;
     
+    
 }
+
+
+
 
 .donate-price{
     width: 70%;
@@ -44,17 +48,13 @@ body{
 }
 .donate-price h1{
     font-size: 40px;
-
-}
-.donate-amount-area{
-    width: 70%;
 }
 .donate-amount{
     display: flex;
-    position: absolute;
+    position: absolute;  
+    margin-top: 50px;
     width: 70%;
 }
-
 .amount-item{
     width: 100px;
     height: 100px;
@@ -75,6 +75,29 @@ body{
     border: 2px solid tomato;
     background-color: #ffeeee;
 }
+
+.donate-button{
+    width: 70%;
+    margin-top: 200px;
+    margin-left: 20%;
+    
+}
+.donate-button p{
+    width: 90%;
+    text-align: center;
+    color: #dadada;
+    border-bottom:1px solid #dadada;
+    margin-bottom: 50px;
+    
+}
+.donate-button a{
+
+    margin-left: 35%;
+}
+
+
+
+
 
 
 
