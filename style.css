@@ -49,6 +49,9 @@ body{
 .donate-price h1{
     font-size: 40px;
 }
+.donate-price p{
+    color: #6e6e6e;
+}
 .donate-amount{
     display: flex;
     position: absolute;  
@@ -69,6 +72,7 @@ body{
     margin: auto;
     margin-top: 40px;
     font-weight: 500;
+    margin-right: 25px;
 
 }
 #unique-item{
@@ -96,6 +100,130 @@ body{
 }
 
 
+.our-plan{
+    display: flex;
+  
+    
+}
+
+.donate-plan{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+.donate-plan h1{
+    font-size: 40px;
+    margin-top: 100px;
+}
+.donate-plan p{
+    
+    color:#bebebe;
+}
+
+
+.food{
+    width: 33%;
+    height: 300px;
+    margin-left: 3%;
+    padding-left: 20px;
+    text-align: left;
+    background-color:#edf5f6;
+    padding-left: 15px;
+    padding-top: 50px;
+
+}
+.shelter{
+    width: 33%;
+    height: 300px;
+    margin-left: 3%;
+    padding-left: 20px;
+    text-align: left;
+    background-color:#ffeeee;
+    padding-left: 15px;
+    padding-top: 50px;
+
+}
+.education{
+    width: 33%;
+    height: 300px;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding-left: 20px;
+    text-align: left;
+    background-color:#fff4d6;
+    padding-left: 15px;
+    padding-top: 50px;
+
+}
+
+.my-update{
+
+text-align: center;
+font-size: 30px;
+}
+.my-update p{
+    color: #6e6e6e;
+    width: 60%;
+    margin: auto;
+}
+
+
+.subscribe-form{
+    background-color:#fff4d6;
+    width: 70%;
+    margin: auto;
+    padding: 100px 0px;
+    margin-top: 50px;
+}
+.subscribe-form input{
+    padding: 20px;
+    width: 300px;
+    border-radius: 0px px 0px 5px;
+    background-color: #d9d9d9;
+    border: none;
+    font-size: 20px;
+
+}
+.subscribe-button{
+    background-color: #ff5959;
+    border:none;
+    padding: 20px 50px;
+    border-radius: 0px 5px 0px 0px;
+    margin-left: -12px;
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    margin-top: 100px;
+
+}
+footer h1{
+    color: tomato;
+    font-size: 40px;
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0px 0px 30px 0px;
+}
 
 
 
