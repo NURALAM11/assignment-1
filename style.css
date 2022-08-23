@@ -183,17 +183,13 @@ body{
     display: inline-block;
 }
 .service-section .service-item1 .service-picture img {
-    width: 120px;
+    width: 300px;
     height: auto;
 }
 .service-section .service-item1 .service-content {
     width: 59%;
     display: inline-block;
 }
-.service-section .service-item1 .service-contaent h1 {}
-.service-section .service-item1 .service-contaent p {}
-
-
 
 .service-section .service-item2 {
     width: 80%;
@@ -206,7 +202,7 @@ body{
     display: inline-block;
 }
 .service-section .service-item2 .service-picture img {
-    width: 120px;
+    width: 200px;
     height: auto;
 }
 .service-section .service-item2 .service-content {
