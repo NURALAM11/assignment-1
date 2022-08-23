@@ -156,6 +156,77 @@ body{
 
 }
 
+
+
+
+.service-section {
+    background-color: #4ab75c;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+.service-section .service-heading {
+    text-align: center;
+}
+
+.service-section .service-heading h1 {
+    font-size: 40px;
+}
+
+.service-section .service-item1 {
+    width: 80%;
+    margin: auto;
+}
+
+.service-section .service-item1 .service-picture {
+    width: 40%;
+    display: inline-block;
+}
+.service-section .service-item1 .service-picture img {
+    width: 120px;
+    height: auto;
+}
+.service-section .service-item1 .service-content {
+    width: 59%;
+    display: inline-block;
+}
+.service-section .service-item1 .service-contaent h1 {}
+.service-section .service-item1 .service-contaent p {}
+
+
+
+.service-section .service-item2 {
+    width: 80%;
+    margin: auto;
+    padding-top: 150px;
+}
+
+.service-section .service-item2 .service-picture {
+    width: 40%;
+    display: inline-block;
+}
+.service-section .service-item2 .service-picture img {
+    width: 120px;
+    height: auto;
+}
+.service-section .service-item2 .service-content {
+    width: 59%;
+    display: inline-block;
+    padding-bottom: 80px;
+}
+.photo-gallery{
+    display: flex;
+}
+
+#gallery{
+    text-align: center;
+    font-size: 40px;
+}
+.photo-gallery img{
+    width: 300px;
+    margin-left: 30px;
+}
+
 .my-update{
 
 text-align: center;
